@@ -42,5 +42,5 @@ To do list items are stored as JavaScript objects in an array:
   createdAt: new Date().toISOString()
 }# to-do-list
 ```
-[**Run the To Do List App**](https://queenrania.github.io/to-do-list/)
+[**Run the To Do List App**](https://queenrania.github.io/to-do-list-vanilla-javascript/)
 
